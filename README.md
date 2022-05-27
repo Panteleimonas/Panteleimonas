@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Panteleimonas
-- 👀 I’m interested in electrical systems engineering, software engineering, star wars, and dungeons and dragons. Yeah im a nerd.
-- 🌱 I’m currently learning operative systems.
-- 💞️ I’m looking to collaborate on anything that pays really.
+- 👀 I’m interested in electrical systems engineering, software engineering, dungeons & dragons, and body building.
+- 🌱 I’m currently learning about operative systems.
+- 💞️ I’m looking to collaborate on anything that will allow me to grow and exploit my potential.
 - 📫 How to reach me: pantrako@auth.gr is my student email and the one i check the most.
 
 <!---
